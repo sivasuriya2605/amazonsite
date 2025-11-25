@@ -101,4 +101,3 @@ document.getElementById("searchBtn").addEventListener("click", () => {
 });
 
 renderProducts(products);
-
